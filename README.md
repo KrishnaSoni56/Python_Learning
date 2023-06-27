@@ -8,6 +8,7 @@ This repository consist of following questions:
 Problem_1 :- It involves the use of some methods of set which includes difference , superset , disjoint , symmetric difference_update .
 
 Problem_2 :- It involves a star pattern 
+
                       *
                       * * 
                       * * *
@@ -18,19 +19,20 @@ Problem_2 :- It involves a star pattern
 
 Problem_3 :- It involves following star patterns
 
-* * * * *           
-*       *  
-*       *   (Its like a shape of a square)
-*       *  
-* * * * *  
+      * * * * *           
+      *       *  
+      *       *   
+      *       *  
+      * * * * *  
 
+(Its like a shape of a square)
 
-
-* * * *  
-*     *  
-*     *  (Its like a shape of a rectangle)
-*     *  
-* * * *  
+      * * * *  
+      *     *  
+      *     *  
+      *     *  
+      * * * *  
+ (Its like a shape of a rectangle)
 
 
 
